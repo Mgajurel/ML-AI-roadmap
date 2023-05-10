@@ -1,0 +1,5 @@
+1. Stanford University - CS229: Machine Learning: This renowned course by Andrew Ng covers the fundamentals of machine learning, including supervised learning. The lectures are available on YouTube: https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599
+
+2. MIT OpenCourseWare - Introduction to Deep Learning: This course explores deep learning techniques, including supervised learning with neural networks. You can access the lectures on their website: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s191-introduction-to-deep-learning-january-iap-2020/index.htm
+
+3. Caltech - Learning From Data: This introductory course provides a comprehensive overview of machine learning, including supervised learning. The lectures are available on YouTube: https://www.youtube.com/playlist?list=PLD63A284B7615313A

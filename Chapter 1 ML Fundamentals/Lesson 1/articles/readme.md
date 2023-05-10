@@ -1,0 +1,3 @@
+1. Towards Data Science: This platform hosts a wealth of articles on machine learning and data science. You can find articles specifically focused on supervised learning, covering topics like algorithms, evaluation metrics, and best practices. Explore their collection at: https://towardsdatascience.com/
+
+2. Medium: Medium features a vast range of articles written by experts in the field. Search for specific topics like "supervised learning" or explore publications like "Analytics Vidhya" and "Towards AI" for informative articles on the subject.
